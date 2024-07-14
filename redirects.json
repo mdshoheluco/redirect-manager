@@ -1,0 +1,8 @@
+[
+    {
+        "id": 2,
+        "source": "about-us",
+        "destination": "about",
+        "permanent": false
+    }
+]
